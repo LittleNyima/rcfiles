@@ -26,6 +26,7 @@ source_zsh() {
   source "$source_file"
 }
 
+
 require_commands() {
   local dependency
   local missing=0

@@ -1,0 +1,1 @@
+unfunction source_zsh require_commands
