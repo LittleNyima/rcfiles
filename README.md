@@ -7,7 +7,7 @@ Personal configuration files.
 Clone this repository into `$HOME/.config`:
 
 ```shell
-git clone <repository-url> "$HOME/.config/rcfiles"
+git clone git@github.com:LittleNyima/rcfiles.git "$HOME/.config/rcfiles"
 cd "$HOME/.config/rcfiles"
 ```
 
